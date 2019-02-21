@@ -18,6 +18,6 @@ const applyMiddleware = function (...middlewares) {
       return store;
     }
   }
-}
+}1
 
 export default applyMiddleware;
